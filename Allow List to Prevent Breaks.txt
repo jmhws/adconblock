@@ -1,0 +1,32 @@
+#Allow List to Prevent Site Breaks
+
+#Allow for Google Suite
+calendar.google.com
+reminders-pa.clients6.google.com
+ssl.gstatic.com
+gstaticadssl.l.google.com
+clients1.google.com
+redirector.gvt1.com
+
+#Other
+image8.pubmatic.com
+www.makeuseof.com
+email.mail.selfh.st
+cta-redirect.hubspot.com
+metrics-fe-na1.hubspot.com
+referrals.brave.com
+
+
+#Weather Channel Site
+mparticle.map.fastly.net
+
+#Canva
+track.canva.com
+
+#Southwest Add to Wallet Feature iOS
+wallet-api.urbanairship.com
+
+#Slack
+(\.|^)www\.slack\.com$
+slackb.com
+
